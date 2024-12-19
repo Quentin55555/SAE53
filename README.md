@@ -32,8 +32,10 @@ La SAE 53 est un projet éducatif visant à initier les étudiants aux concepts 
 
 ## Livrables 📦
 - Rapport  >> [Lien](https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0)
-- Visualisation des résultats obtenus et graphiques >> [Lien]([https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0](https://colab.research.google.com/drive/1dZceAk_syXplYQfIXE2XsA2UKBig28lX#scrollTo=_U5Wq4Ns5TQ3)
-- Code source documenté >> [Lien]([https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0](https://colab.research.google.com/drive/1dZceAk_syXplYQfIXE2XsA2UKBig28lX#scrollTo=_U5Wq4Ns5TQ3)
+  
+- Visualisation des résultats obtenus et graphiques >> [Lien](https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0](https://colab.research.google.com/drive/1dZceAk_syXplYQfIXE2XsA2UKBig28lX#scrollTo=_U5Wq4Ns5TQ3)
+  
+- Code source documenté >> [Lien](https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0](https://colab.research.google.com/drive/1dZceAk_syXplYQfIXE2XsA2UKBig28lX#scrollTo=_U5Wq4Ns5TQ3)
 
   
 ## Compétences Acquises 🔄
