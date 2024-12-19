@@ -9,12 +9,13 @@
 
 ## Timeline Visuelle 🕰️
 
+```mermaid
 gantt
     title Timeline du Projet
     dateFormat  YYYY-MM-DD
     section Rendus
     Rapport   :done, des1, 2025-01-16, 1d
-    Soutenance: milestone, des2, 2025-01-21, 0d
+    Soutenance: milestone, des2, 2054-01-21, 0d
 
 
 
