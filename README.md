@@ -31,7 +31,7 @@ La SAE 53 est un projet éducatif visant à initier les étudiants aux concepts 
 - Objectif : analyser le comportement et l'interaction entre agents intelligents.
 
 ## Livrables 📦
-- Rapport
+- Rapport  [Lien vers le rapport]([https://en.wikipedia.org/wiki/Enterprise_resource_planning](https://docs.google.com/document/d/1_Tf7XQ7LJ4VHswbBB1ekZw7PhIjQD8whoN76teTkiJE/edit?tab=t.0))
 - Visualisation des résultats obtenus et graphiques
 - Code source documenté
   
